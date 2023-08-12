@@ -55,7 +55,5 @@ pip install -r requirements.txt
 - This project utilizes the Selenium and Plotly libraries in Python.
 - The [webdriver-manager](https://pypi.org/project/webdriver-manager/) package is used to manage the ChromeDriver.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
